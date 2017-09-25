@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Recipes</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>My Recipes</h1>
+        <p>Below is my favorite recipe <q>Daal Khichadi</q></p>
+        <h3>Ingrediants</h3>
+        <ul>
+            <li>Rice</li>
+            <li>Water</li>
+            <li>Mung daal</li>
+            <li>Salt</li>
+            <li>Onions</li>
+            <li>Masalas</li>
+            <li>Oil</li>
+        </ul>
+        <h3>Recipe</h3>
+        <ol>
+            <li>Fry chopped onions in oil for 2 minutes.</li>
+            <li>Fry rice and mung daal in it for 2 minutes.</li>
+            <li>Add masalas as per test and fry all together for a minute.</li>
+            <li>Add water as per requirement.</li>
+            <li>Add salt as per test.</li>
+            <li>Boil the rice and khichadi is ready.</li>
+        </ol>
+    </body>
+</html>
